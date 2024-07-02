@@ -21,6 +21,8 @@ public class AppTest
         WebDriver driver=new ChromeDriver();
         driver.get("http://183.82.103.245/nareshit/login.php");
         System.out.println("application is opened");
+        System.out.println("application is opened");
+        System.out.println("application is opened");
         driver.findElement(By.name("txtUserName")).sendKeys("nareshit");
         driver.findElement(By.name("txtPassword")).sendKeys("nareshit");
         driver.findElement(By.name("Submit")).click();
