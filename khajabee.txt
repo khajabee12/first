@@ -7,5 +7,9 @@ khajavalli
 
 changes
 are done 
-in this file git to github
+in this file git to GitHub
+
+selenium 
+manual testing
+automation
 
